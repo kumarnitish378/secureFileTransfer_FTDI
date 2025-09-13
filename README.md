@@ -23,7 +23,9 @@ It supports **multi-file transfer**, **progress bar with KB/s + ETA**, **error r
  PC A (FTDI)           PC B (FTDI)
  -----------           -----------
    TX  -------------->   RX
+
    RX  <--------------   TX
+   
    GND ---------------- GND
 
 ---
