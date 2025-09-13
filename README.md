@@ -55,6 +55,11 @@ It supports **multi-file transfer**, **progress bar with KB/s + ETA**, **error r
 
 One PC can run in both mode (listen + send together).
 
+## GUI Version (PyQt5)
+- Run the GUI with:
+- Run: `python usb_bridge_gui.py`
+![alt text](image.png)
+
 # ⚡ Tips & Troubleshooting
 
 - Both PCs must use the same baud rate (default 115200).
