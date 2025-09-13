@@ -1,4 +1,27 @@
 #!/usr/bin/env python3
+
+# -----------------------------------------------------------------------------
+#  USB Bridge Session — Secure File Transfer (FTDI)
+#
+#  Copyright (c) 2025 Nitish. All Rights Reserved.
+#
+#  License: Proprietary
+#  This software and its source code are the exclusive property of Nitish.
+#
+#  Permissions:
+#   - Use only with prior written permission from the copyright holder.
+#
+#  Restrictions:
+#   - No copying, modifying, merging, publishing, distributing, sublicensing,
+#     or selling.
+#   - No reverse engineering, decompiling, or disassembling.
+#
+#  Liability:
+#   - Provided "as is", without warranty of any kind.
+#
+#  Contact: nitish.ns378@gmail.com
+# -----------------------------------------------------------------------------
+
 """
 usb_bridge_session.py
 Single-run session: send/recv/both. Single-line progress + KB/s + ETA.

@@ -1,0 +1,17 @@
+# -----------------------------------------------------------------------------
+#  USB Bridge Session — Secure File Transfer (FTDI)
+#
+#  Copyright (c) 2025 Nitish. All Rights Reserved.
+#
+#  License: Proprietary
+#  This document and the associated software are the exclusive property of Nitish.
+#  No use, copy, modify, or distribution is allowed without written permission.
+#
+#  Contact: nitish.ns378@gmail.com
+# -----------------------------------------------------------------------------
+
+# Example SHA256 checksum file
+# Generate during release:
+#   sha256sum usb_bridge_session-v1.0.zip > RELEASE_SHA256.txt
+
+b2f4c1f96c1e0f3c2b1a91e5d09f8a3f3bb2cfbc1f6a7a6e5c91a4e43a1f8e5a  usb_bridge_session-v1.0.zip
